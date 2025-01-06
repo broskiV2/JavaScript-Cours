@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-.box {
+.box-1 {
     border: 6px solid white;
     transition: 0.25s ease;
     background: black;
@@ -26,4 +26,9 @@ p {
     transition: 0.6s;
     visibility: hidden;
     width: 240px;
+}
+.questionOnClick {
+    background: #615661;
+    border-radius: 30px;
+    border: 6px dashed red;
 }
